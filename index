@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Póker</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: black;
+      text-align: center;
+      padding: 10px 0;
+    }
+    header img {
+      max-width: 100%;
+      height: auto;
+    }
+    .content {
+      background-color: white;
+      color: black;
+      text-align: center;
+      padding: 20px;
+      font-size: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://drive.google.com/uc?export=view&id=1KUzCwm3hTjmMYB_TQR01Tl2YxJcbObIv" alt="Encabezado">
+  </header>
+  <div class="content">
+    Disfruten la partida.
+  </div>
+</body>
+</html>
